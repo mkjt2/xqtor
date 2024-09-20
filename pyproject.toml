@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "xcutor"
+name = "xqtor"
 version = "0.1.0"
-description = "Xcutor - a collection of Python concurrent.futures.Executor implementations"
+description = "Xqtor - a more flexible ThreadPoolExecutor"
 authors = ["Jackie Tung <jackie.tung@gmail.com>"]
 readme = "README.md"
 
